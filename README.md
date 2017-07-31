@@ -55,6 +55,9 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Meltmedia - [https://meltmedia.com](https://meltmedia.com)
 * Coplex - [https://www.coplex.com/](https://www.coplex.com/)
 
+## Meetups
+* Golang Phoenix - [https://www.meetup.com/Golang-Phoenix/](https://www.meetup.com/Golang-Phoenix/)
+
 ## Companies With Devs In Phoenix
 * &yet
 * American Express
