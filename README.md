@@ -35,6 +35,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Be Coffee - [http://www.conceptuallysocial.com/](http://www.conceptuallysocial.com/)
 * Lux Coffee - [http://www.luxcoffee.com/](http://www.luxcoffee.com/)
 * First Draft - [http://www.changinghands.com/firstdraftbar](http://www.changinghands.com/firstdraftbar)
+* Sozo Coffee - [http://sozocoffee.org/index.html](http://sozocoffee.org/index.html)
 
 ## Hackerspaces And Makerspaces
 * Heatsync Labs - [https://heatsynclabs.org](https://heatsynclabs.org)
