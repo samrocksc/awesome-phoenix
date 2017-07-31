@@ -59,12 +59,16 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 ## Meetups
 * Cocoaheads Phoenix - [https://www.meetup.com/Cocoaheads-Phoenix-Scottsdale/](https://www.meetup.com/Cocoaheads-Phoenix-Scottsdale/)
 * Golang Phoenix - [https://www.meetup.com/Golang-Phoenix/](https://www.meetup.com/Golang-Phoenix/)
+* IoT Phoenix - [https://www.meetup.com/iotphx/](https://www.meetup.com/iotphx/)
+* Node AZ - [https://www.meetup.com/nodeaz/](https://www.meetup.com/nodeaz/)
 
 ## Homegrown Software
 * [dogesay](https://github.com/therealklanni/dogesay) - Say it with doge
 * [emo](https://github.com/w33ble/emo) - Japanese emoticons at your fingertips (ﾉ)´∀｀(ヾ)
 * [Gulp](https://gulpjs.com) - Automate and enhance your workflow
-* [guppy](https://github.com/therealklanni/git-guppy) - Simple git-hook integration for your gulp workflows.
+* [guppy](https://github.com/therealklanni/git-guppy) - Simple git-hook integration for your gulp workflows
+* [jp](https://github.com/therealklanni/jp) - Simply parse JSON from any input source
+* [json5conv](https://github.com/therealklanni/json5conv-cli) - Command-line JSON5 to JSON converter
 * [pagenodes](https://pagenodes.com) - Internet of Things directly from your Web Browser
 
 ## Companies With Devs In Phoenix
