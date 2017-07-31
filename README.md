@@ -6,6 +6,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Nextplex - [http://nextplex.com/phoenix-az](http://nextplex.com/phoenix-az)
 * Az Webdevs - [https://azwebdevs.org/](https://azwebdevs.org/)
 * #yesphx - [http://yesphx.com/](http://yesphx.com/)
+* phxtech.rocks - [http://phxtech.rocks/](http://phxtech.rocks/)
 
 ## Co-Working Spaces
 * CO+HOOTS - [https://cohoots.com/](https://cohoots.com/)
