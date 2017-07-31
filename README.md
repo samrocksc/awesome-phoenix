@@ -52,11 +52,11 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Coplex - [https://www.coplex.com/](https://www.coplex.com/)
 
 ## Companies With Devs In Phoenix
-* &yet
+* &yet - [https://andyet.com/](https://andyet.com/)
 * American Express
 * Citrix
-* GoDaddy
-* Elastic
+* GoDaddy - [https://godaddy.com](https://godaddy.com)
+* Elastic - [https://www.elastic.co/](https://www.elastic.co/)
 * Infusionsoft
 * PayPal
 * RetailMeNot
