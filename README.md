@@ -51,5 +51,13 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Coplex - [https://www.coplex.com/](https://www.coplex.com/)
 
 ## Companies With Devs In Phoenix
-* Tuft & Needle
+* &yet
+* American Express
+* Citrix
+* GoDaddy
+* Elastic
+* Infusionsoft
+* PayPal
 * RetailMeNot
+* Shutterfly
+* Tuft & Needle
