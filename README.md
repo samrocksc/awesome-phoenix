@@ -30,11 +30,15 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Lucky Strike
 * Lustre Bar
 
-## Dev Friendly Coffee Shops
+## Dev Friendly Spaces
 * Cartel Coffee - [https://www.cartelcoffeelab.com/](https://www.cartelcoffeelab.com/)
 * Be Coffee - [http://www.conceptuallysocial.com/](http://www.conceptuallysocial.com/)
-* Lux Coffee - [http://www.luxcoffee.com/](http://www.luxcoffee.com/)
+* Desert Eagle Brewing Company - [http://www.deserteaglebrewing.com/](http://www.deserteaglebrewing.com/)
 * First Draft - [http://www.changinghands.com/firstdraftbar](http://www.changinghands.com/firstdraftbar)
+* Lux Coffee - [http://www.luxcoffee.com/](http://www.luxcoffee.com/)
+* McFate Brewing Company - [https://mcfatebrewing.com/](https://mcfatebrewing.com/)
+* Oro Brewing Company - [http://orobrewing.com/](http://orobrewing.com/)
+* The Shop Beer Co. - [http://www.theshop.beer/](http://www.theshop.beer/)
 * Sozo Coffee - [http://sozocoffee.org/index.html](http://sozocoffee.org/index.html)
 
 ## Hackerspaces And Makerspaces
