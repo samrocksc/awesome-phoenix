@@ -1,6 +1,16 @@
 # awesome-phoenix [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Awesome List for Phoenix.  Compiles a list of awesome references from the az-webdevs channel
 
+* [Resources for Organization](#resources-for-organization)
+* [Co-working Spaces](#co-working-spaces)
+* [Dev-Friendly Space](#dev-friendly-spaces)
+* [Hackerspaces and Makerspaces](#hackerspaces-and-makerspaces)
+* [Code Academies](#code-academies)
+* [Dev Shops in Phoenix](#dev-shops-in-phoenix)
+* [Meetups](#meetups)
+* [Homegrown Software](#homegrown-software)
+* [Companies With Devs In Phoenix](#companies-with-devs-in-phoenix)
+
 # Resources for Organization
 * Freenode - #phxtech
 * Nextplex - [http://nextplex.com/phoenix-az](http://nextplex.com/phoenix-az)
