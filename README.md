@@ -53,7 +53,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 ## Dev Shops In Phoenix
 * Iced Development - [https://iceddev.com](https://iceddev.com)
 * Synapse Studios - [https://synapsestudios.com](https://synapsestudios.com)
-* Meltmedia - [https://meltmedia.com](https://meltmedia.com)
+* meltmedia - [https://meltmedia.com](https://meltmedia.com)
 * Coplex - [https://www.coplex.com/](https://www.coplex.com/)
 
 ## Meetups
