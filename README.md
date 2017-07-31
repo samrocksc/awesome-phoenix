@@ -64,6 +64,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * [dogesay](https://github.com/therealklanni/dogesay) - Say it with doge.
 * Gulp - [https://gulpjs.com](https://gulpjs.com)
 * pagenodes - [https://pagenodes.com](https://pagenodes.com)
+* [guppy](https://github.com/therealklanni/git-guppy) - Simple git-hook integration for your gulp workflows.
 
 ## Companies With Devs In Phoenix
 * &yet - [https://andyet.com/](https://andyet.com/)
