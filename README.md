@@ -73,7 +73,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 ## Companies With Devs In Phoenix
 * &yet - [https://andyet.com/](https://andyet.com/)
 * American Express
-* Brightcove
+* Brightcove - [https://www.brightcove.com/en/](https://www.brightcove.com/en/)
 * Citrix
 * GoDaddy - [https://godaddy.com](https://godaddy.com)
 * Elastic - [https://www.elastic.co/](https://www.elastic.co/)
