@@ -61,9 +61,10 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Golang Phoenix - [https://www.meetup.com/Golang-Phoenix/](https://www.meetup.com/Golang-Phoenix/)
 
 ## Homegrown Software
-* [dogesay](https://github.com/therealklanni/dogesay) - Say it with doge.
-* Gulp - [https://gulpjs.com](https://gulpjs.com)
-* pagenodes - [https://pagenodes.com](https://pagenodes.com)
+* [dogesay](https://github.com/therealklanni/dogesay) - Say it with doge
+* [emo](https://github.com/w33ble/emo) - Japanese emoticons at your fingertips (ﾉ)´∀｀(ヾ)
+* [Gulp](https://gulpjs.com) - Automate and enhance your workflow
+* [pagenodes](https://pagenodes.com) - Internet of Things directly from your Web Browser
 
 ## Companies With Devs In Phoenix
 * &yet - [https://andyet.com/](https://andyet.com/)
