@@ -43,7 +43,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 
 ## Code Academies
 * Dev Mountain - [https://devmountain.com/phoenix-bootcamp](https://devmountain.com/phoenix-bootcamp)
-
+* Galvanize Phoenix - [https://www.galvanize.com/phoenix/full-time](https://www.galvanize.com/phoenix/full-time)
 
 ## Dev Shops In Phoenix
 * Iced Development - [https://iceddev.com](https://iceddev.com)
@@ -54,7 +54,6 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 ## Companies With Devs In Phoenix
 * &yet
 * American Express
-* Brightcove
 * Citrix
 * GoDaddy
 * Elastic
