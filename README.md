@@ -62,8 +62,9 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 
 ## Homegrown Software
 * [dogesay](https://github.com/therealklanni/dogesay) - Say it with doge.
-* Gulp - [https://gulpjs.com](https://gulpjs.com)
-* pagenodes - [https://pagenodes.com](https://pagenodes.com)
+* [emo](https://github.com/w33ble/emo) - Japanese emoticons at your fingertips (ﾉ)´∀｀(ヾ)
+* [Gulp](https://gulpjs.com)
+* [pagenodes](https://pagenodes.com)
 
 ## Companies With Devs In Phoenix
 * &yet - [https://andyet.com/](https://andyet.com/)
