@@ -64,6 +64,8 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * [dogesay](https://github.com/therealklanni/dogesay) - Say it with doge
 * [emo](https://github.com/w33ble/emo) - Japanese emoticons at your fingertips (ﾉ)´∀｀(ヾ)
 * [Gulp](https://gulpjs.com) - Automate and enhance your workflow
+* [jp](https://github.com/therealklanni/jp) - Simply parse JSON from any input source
+* [json5conv](https://github.com/therealklanni/json5conv-cli) - Command-line JSON5 to JSON converter
 * [pagenodes](https://pagenodes.com) - Internet of Things directly from your Web Browser
 
 ## Companies With Devs In Phoenix
