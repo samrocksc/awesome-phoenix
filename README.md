@@ -13,7 +13,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * [Companies With Devs In Phoenix](#companies-with-devs-in-phoenix)
 
 # Resources for Organization
-* Freenode - #phxtech
+* Freenode - #phxtech - [https://webchat.freenode.net/](https://webchat.freenode.net/)
 * Nextplex - [http://nextplex.com/phoenix-az](http://nextplex.com/phoenix-az)
 * Az Webdevs - [https://azwebdevs.org/](https://azwebdevs.org/)
 * #yesphx - [http://yesphx.com/](http://yesphx.com/)
