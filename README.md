@@ -43,7 +43,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 
 ## Job Boards And Recruiting
 * CO+HOOTS Job board - [https://cohoots.com/jobs-board/](https://cohoots.com/jobs-board/)
-* VincentBenjamin - (http://vincentbenjamin.com/locations/phoenix/phoenix-it-recruiters/)[http://vincentbenjamin.com/locations/phoenix/phoenix-it-recruiters/]
+* VincentBenjamin - [http://vincentbenjamin.com/locations/phoenix/phoenix-it-recruiters/](http://vincentbenjamin.com/locations/phoenix/phoenix-it-recruiters/)
 
 ## Dev Friendly Spaces
 * Cartel Coffee - [https://www.cartelcoffeelab.com/](https://www.cartelcoffeelab.com/)
