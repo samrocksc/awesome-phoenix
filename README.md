@@ -3,7 +3,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 
 * [Resources for Organization](#resources-for-organization)
 * [Co-working Spaces](#co-working-spaces)
-* [Job Boards](#job-boards-and-recruiting)
+* [Job Boards And Recruiting](#job-boards-and-recruiting)
 * [Dev-Friendly Space](#dev-friendly-spaces)
 * [Hackerspaces and Makerspaces](#hackerspaces-and-makerspaces)
 * [Code Academies](#code-academies)
