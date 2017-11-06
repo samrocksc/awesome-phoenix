@@ -102,13 +102,14 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * AppointmentPlus - [https://appointment-plus.com](https://appointment-plus.com)
 * Brightcove - [https://www.brightcove.com/en/](https://www.brightcove.com/en/)
 * Citrix
+* Discount Tire - [https://www.discounttire.com/](https://www.discounttire.com/)
 * GoDaddy - [https://godaddy.com](https://godaddy.com)
 * Elastic - [https://www.elastic.co/](https://www.elastic.co/)
 * Infusionsoft - [https://infusionsoft.com](https://infusionsoft.com)
 * PayPal
 * Resound - [https://resoundcreative.com](https://resoundcreative.com)
 * RevolutionParts - [http://www.revolutionparts.com/](http://www.revolutionparts.com/)
-* RetailMeNot
+* RetailMeNot - [https://www.retailmenot.com/](https://www.retailmenot.com/)
 * Shutterfly
-* Tuft & Needle
+* Tuft & Needle - [https://www.tuftandneedle.com/](https://www.tuftandneedle.com/)
 * Virtuous - [http://www.virtuouscrm.com/](http://www.virtuouscrm.com/)
