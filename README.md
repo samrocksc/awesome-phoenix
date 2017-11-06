@@ -71,6 +71,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Dev Mountain - [https://devmountain.com/phoenix-bootcamp](https://devmountain.com/phoenix-bootcamp)
 * Galvanize Phoenix - [https://www.galvanize.com/phoenix/full-time](https://www.galvanize.com/phoenix/full-time)
 * Interface Technical Training (Windows/Ops focus) - [https://www.interfacett.com/](https://www.interfacett.com/)
+* University of Arizona Coding Boot Camp - [https://codingbootcamp.ce.arizona.edu/](https://codingbootcamp.ce.arizona.edu/)
 
 ## Dev Shops In Phoenix
 * AKOS - [https://akosweb.com/](https://akosweb.com/)
