@@ -28,7 +28,9 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Deskhub - [http://www.deskhub.com/scottsdale/](http://www.deskhub.com/scottsdale/)
 * FABRIC - [https://www.fabrictempe.com/](https://www.fabrictempe.com/)
 * Galvanize Phoenix - [https://www.galvanize.com/phoenix/campus](https://www.galvanize.com/phoenix/campus)
-* Gangplank - [http://gangplankhq.com/](http://gangplankhq.com/)
+* Gangplank Avondale - [https://gangplankhq.com/avondale/](https://gangplankhq.com/avondale/)
+* Gangplank Chandler - [https://gangplankhq.com/chandler/](https://gangplankhq.com/chandler/)
+* Gangplank Queen Creek - [https://gangplankhq.com/queen-creek/](https://gangplankhq.com/queen-creek/)
 * MAC6 Conscious Spaces - [https://mac6.com/conscious-workspace/](https://mac6.com/conscious-workspace/)
 * monOrchid - [http://www.monorchid.com/](http://www.monorchid.com/)
 * The Newton - [http://www.thenewtonphx.com/](http://www.thenewtonphx.com/)
@@ -61,6 +63,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Sozo Coffee - [http://sozocoffee.org/index.html](http://sozocoffee.org/index.html)
 
 ## Hackerspaces And Makerspaces
+* Gangplank Queen Creek - [https://gangplankhq.com/queen-creek/](https://gangplankhq.com/queen-creek/)
 * Heatsync Labs - [https://heatsynclabs.org](https://heatsynclabs.org)
 * Tech Shop
 
