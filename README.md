@@ -114,5 +114,6 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * RevolutionParts - [http://www.revolutionparts.com/](http://www.revolutionparts.com/)
 * RetailMeNot - [https://www.retailmenot.com/](https://www.retailmenot.com/)
 * Shutterfly
+* Tanga - [http://www.tanga.com/](http://www.tanga.com)
 * Tuft & Needle - [https://www.tuftandneedle.com/](https://www.tuftandneedle.com/)
 * Virtuous - [http://www.virtuouscrm.com/](http://www.virtuouscrm.com/)
