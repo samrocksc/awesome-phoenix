@@ -65,7 +65,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 ## Hackerspaces And Makerspaces
 * Gangplank Queen Creek - [https://gangplankhq.com/queen-creek/](https://gangplankhq.com/queen-creek/)
 * Heatsync Labs - [https://heatsynclabs.org](https://heatsynclabs.org)
-* Tech Shop
+* Tech Shop - [http://www.techshop.ws/ts_chandler.html](http://www.techshop.ws/ts_chandler.html)
 
 ## Code Academies
 * Dev Mountain - [https://devmountain.com/phoenix-bootcamp](https://devmountain.com/phoenix-bootcamp)
