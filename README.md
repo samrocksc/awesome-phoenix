@@ -2,7 +2,7 @@
 Awesome List for Phoenix.  Compiles a list of awesome references from the az-webdevs channel.
 
 * [Resources for Organization](#resources-for-organization)
-* [Co-working Spaces](#co-working-spaces)
+* [Coworking Spaces](#coworking-spaces)
 * [Job Boards And Recruiting](#job-boards-and-recruiting)
 * [Dev-Friendly Space](#dev-friendly-spaces)
 * [Hackerspaces and Makerspaces](#hackerspaces-and-makerspaces)
@@ -20,7 +20,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * phxtech.rocks - [http://phxtech.rocks/](http://phxtech.rocks/)
 * #yesphx - [http://yesphx.com/](http://yesphx.com/)
 
-## Co-Working Spaces
+## Coworking Spaces
 * BRIC - [http://www.tempe.gov/city-hall/economic-development/entrepreneurs/bric](http://www.tempe.gov/city-hall/economic-development/entrepreneurs/bric)
 * CO+HOOTS - [https://cohoots.com/](https://cohoots.com/)
 * The Croft Downtown - [https://www.thecroftdowntown.com/](https://www.thecroftdowntown.com/)
