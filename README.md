@@ -109,6 +109,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Discount Tire - [https://www.discounttire.com/](https://www.discounttire.com/)
 * GoDaddy - [https://godaddy.com](https://godaddy.com)
 * Elastic - [https://www.elastic.co/](https://www.elastic.co/)
+* Formidable Labs - [https://formidable.com](https://formidable.com)
 * Infusionsoft - [https://infusionsoft.com](https://infusionsoft.com)
 * PayPal
 * Resound - [https://resoundcreative.com](https://resoundcreative.com)
