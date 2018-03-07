@@ -76,6 +76,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 
 ## Dev Shops In Phoenix
 * AKOS - [https://akosweb.com/](https://akosweb.com/)
+* Allied Code - [https://www.alliedcode.com](https://www.alliedcode.com/)
 * Ackmann & Dickenson - [https://ackmanndickenson.com/](https://ackmanndickenson.com/)
 * Brushfire - [http://brushfireinteractive.com/](http://brushfireinteractive.com/)
 * Clairvoyant - [http://clairvoyantsoft.com/](http://clairvoyantsoft.com/)
@@ -93,6 +94,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Ruby AZ - [http://www.rubyaz.org/](http://www.rubyaz.org/)
 
 ## Homegrown Software
+* [AOM](http://www.constructionprofitability.com) - Making construction operations more profitable
 * [chirpers](https://chirpers.com) - IoT Framework written in Javascript!
 * [computes](http://computes.io/) - Massive decentralized computing network
 * [dogesay](https://github.com/therealklanni/dogesay) - Say it with doge
@@ -106,6 +108,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 
 ## Companies With Devs In Phoenix
 * &yet - [https://andyet.com/](https://andyet.com/)
+* Allied Code - [https://www.alliedcode.com](https://www.alliedcode.com/)
 * American Express
 * AppointmentPlus - [https://appointment-plus.com](https://appointment-plus.com)
 * Brightcove - [https://www.brightcove.com/en/](https://www.brightcove.com/en/)
