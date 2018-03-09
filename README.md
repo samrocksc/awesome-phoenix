@@ -88,6 +88,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 ## Meetups
 * AZ MarTech - [https://www.meetup.com/Arizona-Marketing-Technology/](https://www.meetup.com/Arizona-Marketing-Technology/)
 * Cocoaheads Phoenix - [https://www.meetup.com/Cocoaheads-Phoenix-Scottsdale/](https://www.meetup.com/Cocoaheads-Phoenix-Scottsdale/)
+* Function First Phoeinx - [https://www.meetup.com/Functional-First-Phoenix/](https://www.meetup.com/Functional-First-Phoenix/)
 * Golang Phoenix - [https://www.meetup.com/Golang-Phoenix/](https://www.meetup.com/Golang-Phoenix/)
 * IoT Phoenix - [https://www.meetup.com/iotphx/](https://www.meetup.com/iotphx/)
 * Node AZ - [https://www.meetup.com/nodeaz/](https://www.meetup.com/nodeaz/)
