@@ -1,4 +1,5 @@
 # awesome-phoenix [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 Awesome List for Phoenix.  Compiles a list of awesome references from the az-webdevs channel.
 
 * [Resources for Organization](#resources-for-organization)
@@ -13,6 +14,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * [Companies With Devs In Phoenix](#companies-with-devs-in-phoenix)
 
 ## Resources for Organization
+
 * Az Webdevs - [https://azwebdevs.org/](https://azwebdevs.org/)
 * Freenode - #phxtech - [https://webchat.freenode.net/](https://webchat.freenode.net/)
 * MAC6 Culture Development - [https://mac6.com/leadership-academy/](https://mac6.com/leadership-academy/)
@@ -21,6 +23,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * #yesphx - [http://yesphx.com/](http://yesphx.com/)
 
 ## Coworking Spaces
+
 * BRIC - [http://www.tempe.gov/city-hall/economic-development/entrepreneurs/bric](http://www.tempe.gov/city-hall/economic-development/entrepreneurs/bric)
 * CO+HOOTS - [https://cohoots.com/](https://cohoots.com/)
 * The Croft Downtown - [https://www.thecroftdowntown.com/](https://www.thecroftdowntown.com/)
@@ -49,6 +52,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Lustre Bar
 
 ## Job Boards And Recruiting
+
 * CO+HOOTS Job board - [https://cohoots.com/jobs-board/](https://cohoots.com/jobs-board/)
 * VincentBenjamin - [http://vincentbenjamin.com/locations/phoenix/phoenix-it-recruiters/](http://vincentbenjamin.com/locations/phoenix/phoenix-it-recruiters/)
 
@@ -64,17 +68,20 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Sozo Coffee - [http://sozocoffee.org/index.html](http://sozocoffee.org/index.html)
 
 ## Hackerspaces And Makerspaces
+
 * Gangplank Queen Creek - [https://gangplankhq.com/queen-creek/](https://gangplankhq.com/queen-creek/)
 * Heatsync Labs - [https://heatsynclabs.org](https://heatsynclabs.org)
 * Tech Shop - [http://www.techshop.ws/ts_chandler.html](http://www.techshop.ws/ts_chandler.html)(**Now Closed - Will Remove on January 12th, 2018**)
 
 ## Code Academies
+
 * Dev Mountain - [https://devmountain.com/phoenix-bootcamp](https://devmountain.com/phoenix-bootcamp)
 * Galvanize Phoenix - [https://www.galvanize.com/phoenix/full-time](https://www.galvanize.com/phoenix/full-time)
 * Interface Technical Training (Windows/Ops focus) - [https://www.interfacett.com/](https://www.interfacett.com/)
 * University of Arizona Coding Boot Camp - [https://codingbootcamp.ce.arizona.edu/](https://codingbootcamp.ce.arizona.edu/)
 
 ## Dev Shops In Phoenix
+
 * AKOS - [https://akosweb.com/](https://akosweb.com/)
 * Allied Code - [https://www.alliedcode.com](https://www.alliedcode.com/)
 * Ackmann & Dickenson - [https://ackmanndickenson.com/](https://ackmanndickenson.com/)
@@ -86,6 +93,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Synapse Studios - [https://synapsestudios.com](https://synapsestudios.com)
 
 ## Meetups
+
 * AZ MarTech - [https://www.meetup.com/Arizona-Marketing-Technology/](https://www.meetup.com/Arizona-Marketing-Technology/)
 * Cocoaheads Phoenix - [https://www.meetup.com/Cocoaheads-Phoenix-Scottsdale/](https://www.meetup.com/Cocoaheads-Phoenix-Scottsdale/)
 * Function First Phoeinx - [https://www.meetup.com/Functional-First-Phoenix/](https://www.meetup.com/Functional-First-Phoenix/)
@@ -95,6 +103,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Ruby AZ - [http://www.rubyaz.org/](http://www.rubyaz.org/)
 
 ## Homegrown Software
+
 * [AOM](http://www.constructionprofitability.com) - Making construction operations more profitable
 * [chirpers](https://chirpers.com) - IoT Framework written in Javascript!
 * [computes](http://computes.io/) - Massive decentralized computing network
@@ -108,6 +117,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * [pagenodes](https://pagenodes.com) - Internet of Things directly from your Web Browser
 
 ## Companies With Devs In Phoenix
+
 * &yet - [https://andyet.com/](https://andyet.com/)
 * Allied Code - [https://www.alliedcode.com](https://www.alliedcode.com/)
 * American Express
@@ -117,6 +127,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Citrix
 * DriveTime - [https://www.drivetime.com/](https://www.drivetime.com/)
 * Discount Tire - [https://www.discounttire.com/](https://www.discounttire.com/)
+* DoubleDutch - [https://doubledutch.me/](https://doubledutch.me/)
 * GoDaddy - [https://godaddy.com](https://godaddy.com)
 * Elastic - [https://www.elastic.co/](https://www.elastic.co/)
 * Formidable Labs - [https://formidable.com](https://formidable.com)
