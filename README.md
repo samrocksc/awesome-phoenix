@@ -71,7 +71,6 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 
 * Gangplank Queen Creek - [https://gangplankhq.com/queen-creek/](https://gangplankhq.com/queen-creek/)
 * Heatsync Labs - [https://heatsynclabs.org](https://heatsynclabs.org)
-* Tech Shop - [http://www.techshop.ws/ts_chandler.html](http://www.techshop.ws/ts_chandler.html)(**Now Closed - Will Remove on January 12th, 2018**)
 
 ## Code Academies
 
