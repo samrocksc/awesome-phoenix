@@ -99,6 +99,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Function First Phoeinx - [https://www.meetup.com/Functional-First-Phoenix/](https://www.meetup.com/Functional-First-Phoenix/)
 * Golang Phoenix - [https://www.meetup.com/Golang-Phoenix/](https://www.meetup.com/Golang-Phoenix/)
 * IoT Phoenix - [https://www.meetup.com/iotphx/](https://www.meetup.com/iotphx/)
+* Ministry of Testing Phoenix - [https://www.meetup.com/Ministry-of-Testing-Phoenix/](https://www.meetup.com/Ministry-of-Testing-Phoenix/)
 * Node AZ - [https://www.meetup.com/nodeaz/](https://www.meetup.com/nodeaz/)
 * Ruby AZ - [http://www.rubyaz.org/](http://www.rubyaz.org/)
 
