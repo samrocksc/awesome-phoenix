@@ -17,7 +17,6 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 
 * Az Webdevs - [https://azwebdevs.org/](https://azwebdevs.org/)
 * Freenode - #phxtech - [https://webchat.freenode.net/](https://webchat.freenode.net/)
-* MAC6 Culture Development - [https://mac6.com/leadership-academy/](https://mac6.com/leadership-academy/)
 * Nextplex - [http://nextplex.com/phoenix-az](http://nextplex.com/phoenix-az)
 * phxtech.rocks - [http://phxtech.rocks/](http://phxtech.rocks/)
 * #yesphx - [http://yesphx.com/](http://yesphx.com/)
