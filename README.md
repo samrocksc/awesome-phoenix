@@ -15,40 +15,37 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 
 ## Resources for Organization
 
+* #yesphx - [http://yesphx.com/](http://yesphx.com/)
 * Az Webdevs - [https://azwebdevs.org/](https://azwebdevs.org/)
 * Freenode - #phxtech - [https://webchat.freenode.net/](https://webchat.freenode.net/)
 * Nextplex - [http://nextplex.com/phoenix-az](http://nextplex.com/phoenix-az)
 * phxtech.rocks - [http://phxtech.rocks/](http://phxtech.rocks/)
-* #yesphx - [http://yesphx.com/](http://yesphx.com/)
 
 ## Coworking Spaces
 
-* BRIC - [http://www.tempe.gov/city-hall/economic-development/entrepreneurs/bric](http://www.tempe.gov/city-hall/economic-development/entrepreneurs/bric)
-* CO+HOOTS - [https://cohoots.com/](https://cohoots.com/)
-* The Croft Downtown - [https://www.thecroftdowntown.com/](https://www.thecroftdowntown.com/)
-* The Department - [http://departmentphx.com/](http://departmentphx.com/)
-* Deskhub - [http://www.deskhub.com/scottsdale/](http://www.deskhub.com/scottsdale/)
-* FABRIC - [https://www.fabrictempe.com/](https://www.fabrictempe.com/)
-* Galvanize Phoenix - [https://www.galvanize.com/phoenix/campus](https://www.galvanize.com/phoenix/campus)
-* Gangplank Avondale - [https://gangplankhq.com/avondale/](https://gangplankhq.com/avondale/)
-* Gangplank Chandler - [https://gangplankhq.com/chandler/](https://gangplankhq.com/chandler/)
-* Gangplank Queen Creek - [https://gangplankhq.com/queen-creek/](https://gangplankhq.com/queen-creek/)
-* Infinity Coworking - [https://www.infinitycoworking.com/](https://www.infinitycoworking.com/)
-* MAC6 Conscious Spaces - [https://mac6.com/conscious-workspace/](https://mac6.com/conscious-workspace/)
-* monOrchid - [http://www.monorchid.com/](http://www.monorchid.com/)
-* The Newton - [http://www.thenewtonphx.com/](http://www.thenewtonphx.com/)
-* Heritage Square
-* Arizona Center
-* Events on Jackson
-* Arizona Science Center
-* Herberger Theater Center
-* The Children's Museum of Phoenix
 * AMC Theaters - Arizona Center
-* Warehouse 215
+* Arizona Center
+* Arizona Science Center
+* BRIC - [http://www.tempe.gov/city-hall/economic-development/entrepreneurs/bric](http://www.tempe.gov/city-hall/economic-development/entrepreneurs/bric)
 * Canyon Cafe
+* CO+HOOTS - [https://cohoots.com/](https://cohoots.com/)
+* Deskhub
+* Events on Jackson
+* FABRIC
+* Galvanize Phoenix - [https://www.galvanize.com/phoenix/campus](https://www.galvanize.com/phoenix/campus)
+* Gangplank - [http://gangplankhq.com/](http://gangplankhq.com/)
 * Hard Rock Cafe
+* Herberger Theater Center
+* Heritage Square
+* Infinity Coworking - [https://www.infinitycoworking.com/](https://www.infinitycoworking.com/)
 * Lucky Strike
 * Lustre Bar
+* MAC6 Conscious Spaces - [https://mac6.com](https://mac6.com)
+* monOrchid - [http://www.monorchid.com/](http://www.monorchid.com/)
+* The Children's Museum of Phoenix
+* The Department - [http://departmentphx.com/](http://departmentphx.com/)
+* The Newton - [http://www.thenewtonphx.com/](http://www.thenewtonphx.com/)
+* Warehouse 215
 
 ## Job Boards And Recruiting
 
@@ -64,8 +61,8 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Lux Coffee - [http://www.luxcoffee.com/](http://www.luxcoffee.com/)
 * McFate Brewing Company - [https://mcfatebrewing.com/](https://mcfatebrewing.com/)
 * Oro Brewing Company - [http://orobrewing.com/](http://orobrewing.com/)
-* The Shop Beer Co. - [http://www.theshop.beer/](http://www.theshop.beer/)
 * Sozo Coffee - [http://sozocoffee.org/index.html](http://sozocoffee.org/index.html)
+* The Shop Beer Co. - [http://www.theshop.beer/](http://www.theshop.beer/)
 
 ## Hackerspaces And Makerspaces
 
@@ -81,9 +78,9 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 
 ## Dev Shops In Phoenix
 
+* Ackmann & Dickenson - [https://ackmanndickenson.com/](https://ackmanndickenson.com/)
 * AKOS - [https://akosweb.com/](https://akosweb.com/)
 * Allied Code - [https://www.alliedcode.com](https://www.alliedcode.com/)
-* Ackmann & Dickenson - [https://ackmanndickenson.com/](https://ackmanndickenson.com/)
 * Brushfire - [http://brushfireinteractive.com/](http://brushfireinteractive.com/)
 * Clairvoyant - [http://clairvoyantsoft.com/](http://clairvoyantsoft.com/)
 * Coplex - [https://www.coplex.com/](https://www.coplex.com/)
@@ -93,7 +90,6 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 
 ## Meetups
 
-* AZ MarTech - [https://www.meetup.com/Arizona-Marketing-Technology/](https://www.meetup.com/Arizona-Marketing-Technology/)
 * Cocoaheads Phoenix - [https://www.meetup.com/Cocoaheads-Phoenix-Scottsdale/](https://www.meetup.com/Cocoaheads-Phoenix-Scottsdale/)
 * Function First Phoeinx - [https://www.meetup.com/Functional-First-Phoenix/](https://www.meetup.com/Functional-First-Phoenix/)
 * Golang Phoenix - [https://www.meetup.com/Golang-Phoenix/](https://www.meetup.com/Golang-Phoenix/)
@@ -121,25 +117,23 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * &yet - [https://andyet.com/](https://andyet.com/)
 * Allied Code - [https://www.alliedcode.com](https://www.alliedcode.com/)
 * American Express
-* AppointmentPlus - [https://appointment-plus.com](https://appointment-plus.com)
 * Brightcove - [https://www.brightcove.com/en/](https://www.brightcove.com/en/)
 * Charles Schwab - [https://www.schwab.com](https://www.schwab.com)
 * Citrix
-* DriveTime - [https://www.drivetime.com/](https://www.drivetime.com/)
 * Discount Tire - [https://www.discounttire.com/](https://www.discounttire.com/)
 * DoubleDutch - [https://doubledutch.me/](https://doubledutch.me/)
-* Emailage - [https://www.emailage.com/](https://www.emailage.com/)
-* GoDaddy - [https://godaddy.com](https://godaddy.com)
+* DriveTime - [https://www.drivetime.com/](https://www.drivetime.com/)
 * Elastic - [https://www.elastic.co/](https://www.elastic.co/)
+* Emailage - [https://www.emailage.com/](https://www.emailage.com/)
 * Formidable Labs - [https://formidable.com](https://formidable.com)
+* GoDaddy - [https://godaddy.com](https://godaddy.com)
 * Infusionsoft - [https://infusionsoft.com](https://infusionsoft.com)
 * Invitation Homes - [https://invitationhomes.com](https://invitationhomes.com)
 * Olark - [https://olark.com](https://olark.com)
-* PayPal
-* Resound - [https://resoundcreative.com](https://resoundcreative.com)
-* RevolutionParts - [http://www.revolutionparts.com/](http://www.revolutionparts.com/)
+* PayPal - [https://www.paypal.com](https://www.paypal.com)
 * RetailMeNot - [https://www.retailmenot.com/](https://www.retailmenot.com/)
-* Shutterfly
+* RevolutionParts - [http://www.revolutionparts.com/](http://www.revolutionparts.com/)
+* Shutterfly - [https://www.shutterfly.com/](https://www.shutterfly.com/)
 * Tanga - [http://www.tanga.com/](http://www.tanga.com)
 * Tuft & Needle - [https://www.tuftandneedle.com/](https://www.tuftandneedle.com/)
 * USAA - [https://www.usaa.com](https://www.usaa.com)
