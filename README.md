@@ -40,7 +40,6 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Infinity Coworking - [https://www.infinitycoworking.com/](https://www.infinitycoworking.com/)
 * Lucky Strike
 * Lustre Bar
-* MAC6 Conscious Spaces - [https://mac6.com](https://mac6.com)
 * monOrchid - [http://www.monorchid.com/](http://www.monorchid.com/)
 * The Children's Museum of Phoenix
 * The Department - [http://departmentphx.com/](http://departmentphx.com/)
