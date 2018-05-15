@@ -86,6 +86,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Iced Development - [https://iceddev.com](https://iceddev.com)
 * meltmedia - [https://meltmedia.com](https://meltmedia.com)
 * Synapse Studios - [https://synapsestudios.com](https://synapsestudios.com)
+* Velocity Labs - [http://velocitylabs.io](http://velocitylabs.io)
 
 ## Meetups
 
