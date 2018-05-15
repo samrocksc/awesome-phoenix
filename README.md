@@ -104,18 +104,22 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * [computes](http://computes.io/) - Massive decentralized computing network
 * [dogesay](https://github.com/therealklanni/dogesay) - Say it with doge
 * [emo](https://github.com/w33ble/emo) - Japanese emoticons at your fingertips (ﾉ)´∀｀(ヾ)
+* [GitKraken Git Client](https://www.gitkraken.com) - Cross-platform Git GUI for Windows, Mac and Linux.
+* [GitKraken Glo](https://www.globoards.com) - Kanban Issue/Task Board with 2-way GitHub Issue Sync for Developers
 * [Gulp](https://gulpjs.com) - Automate and enhance your workflow
 * [guppy](https://github.com/therealklanni/git-guppy) - Simple git-hook integration for your gulp workflows
 * [howard](https://github.com/samrocksc/howard) - isomorphic fetch wrapper of great reknown
 * [jp](https://github.com/therealklanni/jp) - Simply parse JSON from any input source
 * [json5conv](https://github.com/therealklanni/json5conv-cli) - Command-line JSON5 to JSON converter
 * [pagenodes](https://pagenodes.com) - Internet of Things directly from your Web Browser
+* [PureChat](https://www.purechat.com) - Free live chat software for websites
 
 ## Companies With Devs In Phoenix
 
 * &yet - [https://andyet.com/](https://andyet.com/)
 * Allied Code - [https://www.alliedcode.com](https://www.alliedcode.com/)
 * American Express
+* Axosoft - [https://wwww.axosoft.com](https://wwww.axosoft.com)
 * Brightcove - [https://www.brightcove.com/en/](https://www.brightcove.com/en/)
 * Charles Schwab - [https://www.schwab.com](https://www.schwab.com)
 * Citrix
@@ -131,6 +135,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Invitation Homes - [https://invitationhomes.com](https://invitationhomes.com)
 * Olark - [https://olark.com](https://olark.com)
 * PayPal - [https://www.paypal.com](https://www.paypal.com)
+* Pure Chat - [https://www.purechat.com](https://www.purechat.com)
 * RetailMeNot - [https://www.retailmenot.com/](https://www.retailmenot.com/)
 * RevolutionParts - [http://www.revolutionparts.com/](http://www.revolutionparts.com/)
 * Shutterfly - [https://www.shutterfly.com/](https://www.shutterfly.com/)
