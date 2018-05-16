@@ -85,7 +85,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Coplex - [https://www.coplex.com/](https://www.coplex.com/)
 * Iced Development - [https://iceddev.com](https://iceddev.com)
 * meltmedia - [https://meltmedia.com](https://meltmedia.com)
-* Nerdery - [https://www.nerdery.com/] (https://www.nerdery.com/)
+* Nerdery - [https://www.nerdery.com/](https://www.nerdery.com/)
 * Synapse Studios - [https://synapsestudios.com](https://synapsestudios.com)
 * Velocity Labs - [http://velocitylabs.io](http://velocitylabs.io)
 
@@ -94,7 +94,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Cocoaheads Phoenix - [https://www.meetup.com/Cocoaheads-Phoenix-Scottsdale/](https://www.meetup.com/Cocoaheads-Phoenix-Scottsdale/)
 * Function First Phoeinx - [https://www.meetup.com/Functional-First-Phoenix/](https://www.meetup.com/Functional-First-Phoenix/)
 * Golang Phoenix - [https://www.meetup.com/Golang-Phoenix/](https://www.meetup.com/Golang-Phoenix/)
-* Google Developer Group - [https://www.meetup.com/PHX-Android/] (https://www.meetup.com/PHX-Android/)
+* Google Developer Group - [https://www.meetup.com/PHX-Android/](https://www.meetup.com/PHX-Android/)
 * IoT Phoenix - [https://www.meetup.com/iotphx/](https://www.meetup.com/iotphx/)
 * Ministry of Testing Phoenix - [https://www.meetup.com/Ministry-of-Testing-Phoenix/](https://www.meetup.com/Ministry-of-Testing-Phoenix/)
 * Node AZ - [https://www.meetup.com/nodeaz/](https://www.meetup.com/nodeaz/)
@@ -117,7 +117,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 ## Companies With Devs In Phoenix
 
 * &yet - [https://andyet.com/](https://andyet.com/)
-* Able Android - [https://www.ableandroid.com] (https://www.ableandroid.com)
+* Able Android - [https://www.ableandroid.com](https://www.ableandroid.com)
 * Allied Code - [https://www.alliedcode.com](https://www.alliedcode.com/)
 * American Express
 * Axosoft - [https://wwww.axosoft.com](https://wwww.axosoft.com)
