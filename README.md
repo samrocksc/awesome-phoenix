@@ -100,7 +100,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Node AZ - [https://www.meetup.com/nodeaz/](https://www.meetup.com/nodeaz/)
 * Ruby AZ - [http://www.rubyaz.org/](http://www.rubyaz.org/)
 
-## Homegrown Software
+## Homegrown Open-Source Software
 
 * [AOM](http://www.constructionprofitability.com) - Making construction operations more profitable
 * [chirpers](https://chirpers.com) - IoT Framework written in Javascript!
