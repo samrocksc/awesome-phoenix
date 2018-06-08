@@ -10,7 +10,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * [Code Academies](#code-academies)
 * [Dev Shops in Phoenix](#dev-shops-in-phoenix)
 * [Meetups](#meetups)
-* [Homegrown Software](#homegrown-software)
+* [Homegrown Open-Source Software](#homegrown-open-source-software)
 * [Companies With Devs In Phoenix](#companies-with-devs-in-phoenix)
 
 ## Resources for Organization
