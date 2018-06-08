@@ -114,6 +114,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * [jp](https://github.com/therealklanni/jp) - Simply parse JSON from any input source
 * [json5conv](https://github.com/therealklanni/json5conv-cli) - Command-line JSON5 to JSON converter
 * [pagenodes](https://pagenodes.com) - Internet of Things directly from your Web Browser
+* [redux-thunks](https://github.com/w33ble/redux-thunks) - Redux action creators meets redux-thunk, best used along side redux-actions, redux-act, or similar
 
 ## Companies With Devs In Phoenix
 
