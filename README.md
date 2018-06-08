@@ -107,9 +107,11 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * [computes](http://computes.io/) - Massive decentralized computing network
 * [dogesay](https://github.com/therealklanni/dogesay) - Say it with doge
 * [emo](https://github.com/w33ble/emo) - Japanese emoticons at your fingertips (ﾉ)´∀｀(ヾ)
+* [gravy-tap](https://github.com/w33ble/gravy-tap) - Tap runner for Sauce Labs, uses horsey-sauce
 * [gsex](https://github.com/therealklanni/gsex) - g(it) s(tash) ex(plorer) - Interactive `git stash`
 * [Gulp](https://gulpjs.com) - Automate and enhance your workflow
 * [guppy](https://github.com/therealklanni/git-guppy) - Simple git-hook integration for your gulp workflows
+* [horsey-sauce](https://github.com/w33ble/horsey-sauce) - Run javascript code in a real browser on Sauce Labs, useful for testing
 * [howard](https://github.com/samrocksc/howard) - isomorphic fetch wrapper of great reknown
 * [jp](https://github.com/therealklanni/jp) - Simply parse JSON from any input source
 * [json5conv](https://github.com/therealklanni/json5conv-cli) - Command-line JSON5 to JSON converter
