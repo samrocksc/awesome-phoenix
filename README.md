@@ -92,6 +92,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 ## Meetups
 
 * Cocoaheads Phoenix - [https://www.meetup.com/Cocoaheads-Phoenix-Scottsdale/](https://www.meetup.com/Cocoaheads-Phoenix-Scottsdale/)
+* Desert Rust - [https://www.meetup.com/Desert-Rustaceans/](https://www.meetup.com/Desert-Rustaceans/)
 * Function First Phoeinx - [https://www.meetup.com/Functional-First-Phoenix/](https://www.meetup.com/Functional-First-Phoenix/)
 * Golang Phoenix - [https://www.meetup.com/Golang-Phoenix/](https://www.meetup.com/Golang-Phoenix/)
 * Google Developer Group - [https://www.meetup.com/PHX-Android/](https://www.meetup.com/PHX-Android/)
