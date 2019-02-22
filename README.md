@@ -1,6 +1,6 @@
 # awesome-phoenix [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Awesome List for Phoenix.  Compiles a list of awesome references from the az-webdevs channel.
+Awesome List for Phoenix.  Compiles a list of awesome references from the az-devs channel.
 
 * [Resources for Organization](#resources-for-organization)
 * [Coworking Spaces](#coworking-spaces)
@@ -16,7 +16,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 ## Resources for Organization
 
 * #yesphx - [http://yesphx.com/](http://yesphx.com/)
-* Az Webdevs - [https://azwebdevs.org/](https://azwebdevs.org/)
+* Az Devs - [https://azdevs.org/](https://azdevs.org/)
 * Freenode - #phxtech - [https://webchat.freenode.net/](https://webchat.freenode.net/)
 * Nextplex - [http://nextplex.com/phoenix-az](http://nextplex.com/phoenix-az)
 * phxtech.rocks - [http://phxtech.rocks/](http://phxtech.rocks/)
