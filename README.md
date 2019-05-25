@@ -99,7 +99,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * IoT Phoenix - [https://www.meetup.com/iotphx/](https://www.meetup.com/iotphx/)
 * Ministry of Testing Phoenix - [https://www.meetup.com/Ministry-of-Testing-Phoenix/](https://www.meetup.com/Ministry-of-Testing-Phoenix/)
 * Node AZ - [https://www.meetup.com/nodeaz/](https://www.meetup.com/nodeaz/)
-* Ruby AZ - [http://www.rubyaz.org/](http://www.rubyaz.org/)
+* Ruby AZ - [https://www.meetup.com/Ruby-AZ/](https://www.meetup.com/Ruby-AZ/)
 
 ## Homegrown Open-Source Software
 
@@ -147,7 +147,6 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * RevolutionParts - [http://www.revolutionparts.com/](http://www.revolutionparts.com/)
 * Shutterfly - [https://www.shutterfly.com/](https://www.shutterfly.com/)
 * SmartRent - [https://smartrent.com/](https://smartrent.com/)
-* Tanga - [http://www.tanga.com/](http://www.tanga.com)
 * Tuft & Needle - [https://www.tuftandneedle.com/](https://www.tuftandneedle.com/)
 * USAA - [https://www.usaa.com](https://www.usaa.com)
 * Virtuous - [http://www.virtuouscrm.com/](http://www.virtuouscrm.com/)
