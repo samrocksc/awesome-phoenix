@@ -1,6 +1,6 @@
 # awesome-phoenix [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Awesome List for Phoenix.  Compiles a list of awesome references from the az-devs channel.
+Awesome List for Phoenix.  Compiles a list of awesome references from the [{az}devs Slack](https://azdevs.org).
 
 * [Resources for Organization](#resources-for-organization)
 * [Coworking Spaces](#coworking-spaces)
