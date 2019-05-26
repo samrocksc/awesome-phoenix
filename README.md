@@ -15,11 +15,11 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 
 ## Resources for Organization
 
-* #yesphx - [http://yesphx.com/](http://yesphx.com/)
-* Az Webdevs - [https://azwebdevs.org/](https://azwebdevs.org/)
+* AZ Devs - [https://azdevs.org/](https://azdevs.org/)
+* phxtech.rocks - [http://phxtech.rocks/](http://phxtech.rocks/)
 * Freenode - #phxtech - [https://webchat.freenode.net/](https://webchat.freenode.net/)
 * Nextplex - [http://nextplex.com/phoenix-az](http://nextplex.com/phoenix-az)
-* phxtech.rocks - [http://phxtech.rocks/](http://phxtech.rocks/)
+* #yesphx - [http://yesphx.com/](http://yesphx.com/)
 
 ## Coworking Spaces
 
@@ -93,13 +93,16 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 
 * Cocoaheads Phoenix - [https://www.meetup.com/Cocoaheads-Phoenix-Scottsdale/](https://www.meetup.com/Cocoaheads-Phoenix-Scottsdale/)
 * Desert Rust - [https://www.meetup.com/Desert-Rustaceans/](https://www.meetup.com/Desert-Rustaceans/)
-* Function First Phoeinx - [https://www.meetup.com/Functional-First-Phoenix/](https://www.meetup.com/Functional-First-Phoenix/)
+* Function First Phoenix - [https://www.meetup.com/Functional-First-Phoenix/](https://www.meetup.com/Functional-First-Phoenix/)
 * Golang Phoenix - [https://www.meetup.com/Golang-Phoenix/](https://www.meetup.com/Golang-Phoenix/)
 * Google Developer Group - [https://www.meetup.com/PHX-Android/](https://www.meetup.com/PHX-Android/)
 * IoT Phoenix - [https://www.meetup.com/iotphx/](https://www.meetup.com/iotphx/)
 * Ministry of Testing Phoenix - [https://www.meetup.com/Ministry-of-Testing-Phoenix/](https://www.meetup.com/Ministry-of-Testing-Phoenix/)
 * Node AZ - [https://www.meetup.com/nodeaz/](https://www.meetup.com/nodeaz/)
 * Ruby AZ - [https://www.meetup.com/Ruby-AZ/](https://www.meetup.com/Ruby-AZ/)
+* Phoenix JavaScript - [http://phoenixjavascript.org](http://phoenixjavascript.org)
+* Phoenix TypeScript - [https://www.meetup.com/Phoenix-TypeScript/](https://www.meetup.com/Phoenix-TypeScript/)
+* Phoenix ReactJS - [https://www.meetup.com/Phoenix-ReactJS/](https://www.meetup.com/Phoenix-ReactJS/)
 
 ## Homegrown Open-Source Software
 
@@ -129,6 +132,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Axosoft - [https://wwww.axosoft.com](https://wwww.axosoft.com)
 * Brightcove - [https://www.brightcove.com/en/](https://www.brightcove.com/en/)
 * Charles Schwab - [https://www.schwab.com](https://www.schwab.com)
+* Choice Hotels International - [https://www.choicehotels.com](https://www.choicehotels.com)
 * Citrix
 * ClearVoice - [https://www.clearvoice.com](https://www.clearvoice.com)
 * Discount Tire - [https://www.discounttire.com/](https://www.discounttire.com/)
