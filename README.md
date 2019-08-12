@@ -93,6 +93,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the [{az}d
 ## Meetups
 
 * Cocoaheads Phoenix - [https://www.meetup.com/Cocoaheads-Phoenix-Scottsdale/](https://www.meetup.com/Cocoaheads-Phoenix-Scottsdale/)
+* DesertPy - [https://www.meetup.com/Phoenix-Python-Meetup-Group/](https://www.meetup.com/Phoenix-Python-Meetup-Group/)
 * Desert Rustaceans - [https://www.meetup.com/Desert-Rustaceans/](https://www.meetup.com/Desert-Rustaceans/) ([Meetup Notes](https://github.com/azdevs/desert-rustaceans))
 * Function First Phoeinx - [https://www.meetup.com/Functional-First-Phoenix/](https://www.meetup.com/Functional-First-Phoenix/)
 * Golang Phoenix - [https://www.meetup.com/Golang-Phoenix/](https://www.meetup.com/Golang-Phoenix/)
@@ -121,8 +122,10 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the [{az}d
 * [howard](https://github.com/samrocksc/howard) - isomorphic fetch wrapper of great reknown
 * [jp](https://github.com/therealklanni/jp) - Simply parse JSON from any input source
 * [json5conv](https://github.com/therealklanni/json5conv-cli) - Command-line JSON5 to JSON converter
+* [open-api](https://github.com/kogosoftwarellc/open-api) - A Monorepo of various packages to power OpenAPI in node
 * [pagenodes](https://pagenodes.com) - Internet of Things directly from your Web Browser
 * [redux-thunks](https://github.com/w33ble/redux-thunks) - Redux action creators meets redux-thunk, best used along side redux-actions, redux-act, or similar
+* [teraslice](https://github.com/terascope/teraslice) - Scalable data processing pipelines in JavaScript.
 
 ## Companies With Devs In Phoenix
 
