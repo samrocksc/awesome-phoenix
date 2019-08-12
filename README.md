@@ -1,6 +1,6 @@
 # awesome-phoenix [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Awesome List for Phoenix.  Compiles a list of awesome references from the az-webdevs channel.
+Awesome List for Phoenix.  Compiles a list of awesome references from the [{az}devs Slack](https://azdevs.org).
 
 * [Resources for Organization](#resources-for-organization)
 * [Coworking Spaces](#coworking-spaces)
@@ -15,11 +15,11 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 
 ## Resources for Organization
 
-* #yesphx - [http://yesphx.com/](http://yesphx.com/)
-* Az Webdevs - [https://azwebdevs.org/](https://azwebdevs.org/)
+* {az}devs - [https://azdevs.org/](https://azdevs.org/)
 * Freenode - #phxtech - [https://webchat.freenode.net/](https://webchat.freenode.net/)
 * Nextplex - [http://nextplex.com/phoenix-az](http://nextplex.com/phoenix-az)
 * phxtech.rocks - [http://phxtech.rocks/](http://phxtech.rocks/)
+* #yesphx - [http://yesphx.com/](http://yesphx.com/)
 
 ## Coworking Spaces
 
@@ -99,7 +99,10 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * IoT Phoenix - [https://www.meetup.com/iotphx/](https://www.meetup.com/iotphx/)
 * Ministry of Testing Phoenix - [https://www.meetup.com/Ministry-of-Testing-Phoenix/](https://www.meetup.com/Ministry-of-Testing-Phoenix/)
 * Node AZ - [https://www.meetup.com/nodeaz/](https://www.meetup.com/nodeaz/)
-* Ruby AZ - [http://www.rubyaz.org/](http://www.rubyaz.org/)
+* Ruby AZ - [https://www.meetup.com/Ruby-AZ/](https://www.meetup.com/Ruby-AZ/)
+* Phoenix JavaScript - [http://phoenixjavascript.org](http://phoenixjavascript.org)
+* Phoenix TypeScript - [https://www.meetup.com/Phoenix-TypeScript/](https://www.meetup.com/Phoenix-TypeScript/)
+* Phoenix ReactJS - [https://www.meetup.com/Phoenix-ReactJS/](https://www.meetup.com/Phoenix-ReactJS/)
 
 ## Homegrown Open-Source Software
 
@@ -129,6 +132,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * Axosoft - [https://wwww.axosoft.com](https://wwww.axosoft.com)
 * Brightcove - [https://www.brightcove.com/en/](https://www.brightcove.com/en/)
 * Charles Schwab - [https://www.schwab.com](https://www.schwab.com)
+* Choice Hotels International - [https://www.choicehotels.com](https://www.choicehotels.com)
 * Citrix
 * ClearVoice - [https://www.clearvoice.com](https://www.clearvoice.com)
 * Discount Tire - [https://www.discounttire.com/](https://www.discounttire.com/)
@@ -147,7 +151,6 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 * RevolutionParts - [http://www.revolutionparts.com/](http://www.revolutionparts.com/)
 * Shutterfly - [https://www.shutterfly.com/](https://www.shutterfly.com/)
 * SmartRent - [https://smartrent.com/](https://smartrent.com/)
-* Tanga - [http://www.tanga.com/](http://www.tanga.com)
 * Tuft & Needle - [https://www.tuftandneedle.com/](https://www.tuftandneedle.com/)
 * USAA - [https://www.usaa.com](https://www.usaa.com)
 * Virtuous - [http://www.virtuouscrm.com/](http://www.virtuouscrm.com/)
