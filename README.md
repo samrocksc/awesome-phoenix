@@ -121,6 +121,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the [{az}d
 * [howard](https://github.com/samrocksc/howard) - isomorphic fetch wrapper of great reknown
 * [jp](https://github.com/therealklanni/jp) - Simply parse JSON from any input source
 * [json5conv](https://github.com/therealklanni/json5conv-cli) - Command-line JSON5 to JSON converter
+* [open-api](https://github.com/kogosoftwarellc/open-api) - A Monorepo of various packages to power OpenAPI in node
 * [pagenodes](https://pagenodes.com) - Internet of Things directly from your Web Browser
 * [redux-thunks](https://github.com/w33ble/redux-thunks) - Redux action creators meets redux-thunk, best used along side redux-actions, redux-act, or similar
 
