@@ -106,12 +106,19 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the [{az}d
 * Phoenix TypeScript - [https://www.meetup.com/Phoenix-TypeScript/](https://www.meetup.com/Phoenix-TypeScript/)
 * Phoenix ReactJS - [https://www.meetup.com/Phoenix-ReactJS/](https://www.meetup.com/Phoenix-ReactJS/)
 
+## Conferences
+
+* Desert Code Camp - [https://oct2019.desertcodecamp.com/home](https://oct2019.desertcodecamp.com/home) - Oct 12th, 2019
+* HalfStack Phoenix - [https://halfstackconf.com/phoenix/](https://halfstackconf.com/phoenix/) - Jan 17th, 2020
+* Phoenix Mobile Festival - [http://phxmobifestival.com/](http://phxmobifestival.com/) - Oct 26th, 2019
+
 ## Homegrown Open-Source Software
 
 * [AOM](http://www.constructionprofitability.com) - Making construction operations more profitable
 * [chirpers](https://chirpers.com) - IoT Framework written in Javascript!
 * [computes](http://computes.io/) - Massive decentralized computing network
 * [dogesay](https://github.com/therealklanni/dogesay) - Say it with doge
+* [dojo](https://github.com/dojo/framework) - Progressive, Reactive TypeScript framework
 * [emo](https://github.com/w33ble/emo) - Japanese emoticons at your fingertips (ﾉ)´∀｀(ヾ)
 * [gdex](https://github.com/therealklanni/gdex) - g(it) d(iff) ex(plorer) - Interactive branch compare
 * [gravy-tap](https://github.com/w33ble/gravy-tap) - Tap runner for Sauce Labs, uses horsey-sauce
@@ -157,6 +164,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the [{az}d
 * RevolutionParts - [http://www.revolutionparts.com/](http://www.revolutionparts.com/)
 * Shutterfly - [https://www.shutterfly.com/](https://www.shutterfly.com/)
 * Sibi - [https://sibipro.com/](https://sibipro.com/)
+* SitePen - [https://sitepen.com/](https://sitepen.com/)
 * SmartRent - [https://smartrent.com/](https://smartrent.com/)
 * Tuft & Needle - [https://www.tuftandneedle.com/](https://www.tuftandneedle.com/)
 * USAA - [https://www.usaa.com](https://www.usaa.com)
