@@ -118,6 +118,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the [{az}d
 * [chirpers](https://chirpers.com) - IoT Framework written in Javascript!
 * [computes](http://computes.io/) - Massive decentralized computing network
 * [dogesay](https://github.com/therealklanni/dogesay) - Say it with doge
+* [diyapis](https://diyapis.com) - The No-Code solution to backend APIs and hosting.
 * [dojo](https://github.com/dojo/framework) - Progressive, Reactive TypeScript framework
 * [emo](https://github.com/w33ble/emo) - Japanese emoticons at your fingertips (ﾉ)´∀｀(ヾ)
 * [gdex](https://github.com/therealklanni/gdex) - g(it) d(iff) ex(plorer) - Interactive branch compare
