@@ -54,6 +54,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the [{az}d
 
 ## Dev Friendly Spaces
 
+* 12 West Brewing - [http://12westbrewing.com/](http://12westbrewing.com/)
 * Be Coffee - [http://www.conceptuallysocial.com/](http://www.conceptuallysocial.com/)
 * Cartel Coffee - [https://www.cartelcoffeelab.com/](https://www.cartelcoffeelab.com/)
 * Chupacabra Taproom - [http://chupacabrataproom.com/](http://chupacabrataproom.com/)
