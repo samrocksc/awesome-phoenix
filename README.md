@@ -56,6 +56,8 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the [{az}d
 
 * Be Coffee - [http://www.conceptuallysocial.com/](http://www.conceptuallysocial.com/)
 * Cartel Coffee - [https://www.cartelcoffeelab.com/](https://www.cartelcoffeelab.com/)
+* Chupacabra Taproom - [http://chupacabrataproom.com/](http://chupacabrataproom.com/)
+* Cider Corps - [https://cidercorpsaz.com/](https://cidercorpsaz.com/)
 * Desert Eagle Brewing Company - [http://www.deserteaglebrewing.com/](http://www.deserteaglebrewing.com/)
 * First Draft - [http://www.changinghands.com/firstdraftbar](http://www.changinghands.com/firstdraftbar)
 * Lux Coffee - [http://www.luxcoffee.com/](http://www.luxcoffee.com/)
@@ -92,6 +94,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the [{az}d
 
 ## Meetups
 
+* Coffee and Code East Valley - [https://www.meetup.com/Coffee-and-Code-East-Valley/](https://www.meetup.com/Coffee-and-Code-East-Valley/)
 * Cocoaheads Phoenix - [https://www.meetup.com/Cocoaheads-Phoenix-Scottsdale/](https://www.meetup.com/Cocoaheads-Phoenix-Scottsdale/)
 * DesertPy - [https://www.meetup.com/Phoenix-Python-Meetup-Group/](https://www.meetup.com/Phoenix-Python-Meetup-Group/)
 * Desert Rustaceans - [https://www.meetup.com/Desert-Rustaceans/](https://www.meetup.com/Desert-Rustaceans/) ([Meetup Notes](https://github.com/azdevs/desert-rustaceans))
@@ -118,7 +121,6 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the [{az}d
 * [chirpers](https://chirpers.com) - IoT Framework written in Javascript!
 * [computes](http://computes.io/) - Massive decentralized computing network
 * [dogesay](https://github.com/therealklanni/dogesay) - Say it with doge
-* [diyapis](https://diyapis.com) - The No-Code solution to backend APIs and hosting.
 * [dojo](https://github.com/dojo/framework) - Progressive, Reactive TypeScript framework
 * [emo](https://github.com/w33ble/emo) - Japanese emoticons at your fingertips (ﾉ)´∀｀(ヾ)
 * [gdex](https://github.com/therealklanni/gdex) - g(it) d(iff) ex(plorer) - Interactive branch compare
@@ -148,12 +150,14 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the [{az}d
 * Citrix
 * ClearVoice - [https://www.clearvoice.com](https://www.clearvoice.com)
 * Discount Tire - [https://www.discounttire.com/](https://www.discounttire.com/)
+* DIYAPIs - [https://diyapis.com](https://diyapis.com)
 * DoubleDutch - [https://doubledutch.me/](https://doubledutch.me/)
 * DriveTime - [https://www.drivetime.com/](https://www.drivetime.com/)
 * Elastic - [https://www.elastic.co/](https://www.elastic.co/)
 * Emailage - [https://www.emailage.com/](https://www.emailage.com/)
 * Freshly - [https://www.freshly.com/](https://www.freshly.com/)
 * Formidable Labs - [https://formidable.com](https://formidable.com)
+* Grouproom - [https://www.grouproom.io/rooms](https://www.grouproom.io)
 * Homelight - [https://www.homelight.com/](https://www.homelight.com/)
 * GoDaddy - [https://godaddy.com](https://godaddy.com)
 * Invitation Homes - [https://invitationhomes.com](https://invitationhomes.com)
